@@ -1,5 +1,12 @@
 # Models-AI
 
+<p align="center">
+<img src="https://img.shields.io/github/orgs/models-ai/repos?style=flat-square&label=Repositories" />
+<img src="https://img.shields.io/github/stars?style=flat-square&label=Stars" />
+<img src="https://img.shields.io/badge/AI-Agent-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Prompt-Engineering-green?style=flat-square" />
+</p>
+
 > 专注 AI 模型、Agent 开发与提示词工程的开源组织
 
 ## ✨ 关于我们
@@ -12,10 +19,10 @@
 
 ## 🤝 参与贡献
 欢迎提交 Issue、PR，一起交流 AI 相关技术。
-1. Fork 本仓库
+1. Fork 项目仓库
 2. 创建功能分支
 3. 提交更改
 4. 发起 Pull Request
 
 ## 📄 许可
-项目遵循开源协议，详见各项目 LICENSE 文件。
+项目遵循开源协议，详见各仓库 LICENSE 文件。
