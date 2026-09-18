@@ -1,28 +1,53 @@
 # Models-AI
 
 <p align="center">
-<img src="https://img.shields.io/github/orgs/models-ai/repos?style=flat-square&label=Repositories" />
-<img src="https://img.shields.io/github/stars?style=flat-square&label=Stars" />
-<img src="https://img.shields.io/badge/AI-Agent-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Prompt-Engineering-green?style=flat-square" />
+<!-- 组织动态统计卡片｜暗黑主题 -->
+<img src="https://github-readme-stats.vercel.app/api/orgs?org=models-ai&show_icons=true&theme=tokyonight&hide_border=true" alt="Models-AI Stats"/>
+</p>
+
+<p align="center">
+<!-- 组织语言统计饼图｜暗黑主题 -->
+<img src="https://github-readme-stats.vercel.app/api/org-langs?org=models-ai&layout=compact&theme=tokyonight&hide_border=true" alt="Models-AI Language Stats"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/github/orgs/models-ai/repos?style=flat-square&label=组织仓库数&color=4285F4" />
+<img src="https://img.shields.io/github/stars?style=flat-square&label=总Star数&color=FBBC05" />
+<img src="https://img.shields.io/badge/AI-Agent-34A853?style=flat-square" />
+<img src="https://img.shields.io/badge/Prompt-Engineering-EA4335?style=flat-square" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=models-ai.visitor" alt="访客统计"/>
 </p>
 
 > 专注 AI 模型、Agent 开发与提示词工程的开源组织
 
 ## ✨ 关于我们
-我们致力于构建易用、可扩展的 AI Agent 应用，探索提示词工程、工作流编排、模型部署相关实践，分享开源项目与技术文档。
+Models-AI 聚焦 AI 应用落地，致力于构建易用、可扩展的 AI Agent 系统。
+我们探索提示词工程、多分支工作流编排、大模型部署等技术方向，持续沉淀可复用的提示词模板、工程配置与技术文档，打造开放协作的 AI 开发者社区。
 
 ## 📦 开源项目
-- 模型应用与 Agent 工作流示例
-- 提示词模板、工具链配置
-- 技术文档与最佳实践
+> 点击项目名称，直接跳转对应仓库
 
-## 🤝 参与贡献
-欢迎提交 Issue、PR，一起交流 AI 相关技术。
-1. Fork 项目仓库
-2. 创建功能分支
-3. 提交更改
+- 🤖 [Agent 工作流与意图识别示例](https://github.com/models-ai/agent-workflow-demo)
+- 📝 [高质量提示词模板库（提示词工程）](https://github.com/models-ai/prompt-templates)
+- ⚙️ [前端 & 工具链配置（VitePress / Tailwind / Monorepo）](https://github.com/models-ai/frontend-toolkit)
+- 📚 [技术文档与最佳实践](https://github.com/models-ai/docs)
+
+> ⚠️ 提示：上面链接是预占位链接。**当你创建好对应仓库之后**，把链接替换成真实仓库地址即可。
+
+## 🚀 快速参与
+欢迎任何形式的交流与贡献，无论是提 Issue、提交 PR，还是分享想法：
+1. Fork 目标仓库
+2. 新建分支开发修改
+3. 提交 commit
 4. 发起 Pull Request
 
-## 📄 许可
-项目遵循开源协议，详见各仓库 LICENSE 文件。
+## 📌 组织愿景
+降低 AI Agent 的开发门槛，把复杂的提示词、工作流逻辑封装成可复用的方案，让更多开发者快速上手智能应用搭建。
+
+## 📄 开源许可
+组织下各个仓库独立使用开源协议，详细请查看对应仓库内 `LICENSE` 文件。
+
+---
+<p align="center">
+⭐ 如果项目对你有帮助，欢迎点亮 Star，关注我们持续更新！
+</p>
