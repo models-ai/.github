@@ -1,12 +1,21 @@
-## Hi there 👋
+# Models-AI
 
-<!--
+> 专注 AI 模型、Agent 开发与提示词工程的开源组织
 
-**Here are some ideas to get you started:**
+## ✨ 关于我们
+我们致力于构建易用、可扩展的 AI Agent 应用，探索提示词工程、工作流编排、模型部署相关实践，分享开源项目与技术文档。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📦 开源项目
+- 模型应用与 Agent 工作流示例
+- 提示词模板、工具链配置
+- 技术文档与最佳实践
+
+## 🤝 参与贡献
+欢迎提交 Issue、PR，一起交流 AI 相关技术。
+1. Fork 本仓库
+2. 创建功能分支
+3. 提交更改
+4. 发起 Pull Request
+
+## 📄 许可
+项目遵循开源协议，详见各项目 LICENSE 文件。
