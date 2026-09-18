@@ -9,12 +9,12 @@ Models-AI 聚焦 AI 应用落地，致力于构建易用、可扩展的 AI Agent
 ## 📦 开源项目
 > 点击项目名称，直接跳转对应仓库
 
-- 🤖 [Agent 工作流与意图识别示例](https://github.com/models-ai/agent-workflow-demo)
-- 📝 [高质量提示词模板库（提示词工程）](https://github.com/models-ai/prompt-templates)
-- ⚙️ [前端 & 工具链配置（VitePress / Tailwind / Monorepo）](https://github.com/models-ai/frontend-toolkit)
-- 📚 [技术文档与最佳实践](https://github.com/models-ai/docs)
+- 🤖 [Agent 从零开始构建智能体](https://github.com/models-ai/hello-agents)
+- 📝 [高质量提示词模板库（提示词工程）](https://github.com/models-ai/)
+- ⚙️ [前端 & 工具链配置（VitePress / Tailwind / Monorepo）](https://github.com/models-ai/)
+- 📚 [技术文档与最佳实践](https://github.com/models-ai/)
 
-> ⚠️ 提示：上面链接是预占位链接。**当你创建好对应仓库之后**，把链接替换成真实仓库地址即可。
+> ⚠️ 提示：上面链接有的是预占位链接。**当创建好对应仓库之后**，就会把链接替换成真实仓库地址。
 
 ## 🚀 快速参与
 欢迎任何形式的交流与贡献，无论是提 Issue、提交 PR，还是分享想法：
