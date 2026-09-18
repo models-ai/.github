@@ -1,23 +1,5 @@
 # Models-AI
 
-<p align="center">
-<!-- 组织动态统计卡片｜暗黑主题 -->
-<img src="https://github-readme-stats.vercel.app/api/orgs?org=models-ai&show_icons=true&theme=tokyonight&hide_border=true" alt="Models-AI Stats"/>
-</p>
-
-<p align="center">
-<!-- 组织语言统计饼图｜暗黑主题 -->
-<img src="https://github-readme-stats.vercel.app/api/org-langs?org=models-ai&layout=compact&theme=tokyonight&hide_border=true" alt="Models-AI Language Stats"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/github/orgs/models-ai/repos?style=flat-square&label=组织仓库数&color=4285F4" />
-<img src="https://img.shields.io/github/stars?style=flat-square&label=总Star数&color=FBBC05" />
-<img src="https://img.shields.io/badge/AI-Agent-34A853?style=flat-square" />
-<img src="https://img.shields.io/badge/Prompt-Engineering-EA4335?style=flat-square" />
-<img src="https://visitor-badge.laobi.icu/badge?page_id=models-ai.visitor" alt="访客统计"/>
-</p>
-
 > 专注 AI 模型、Agent 开发与提示词工程的开源组织
 
 ## ✨ 关于我们
